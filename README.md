@@ -13,3 +13,10 @@ Partial (hump) 16" roof raise. Windows and interior wall/skin removed.
 All seats removed. Subfloor with 1" foam insulation installed.
 
 Backup camera installed.
+
+## Pictures
+![Nose](https://raw.githubusercontent.com/hacksonabus/The_Bus/refs/heads/main/01_nose.jpg)
+
+
+## Before the Roof Raise
+![Before the Roof Raise](https://raw.githubusercontent.com/hacksonabus/The_Bus/refs/heads/main/00_before.jpg)
