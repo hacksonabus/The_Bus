@@ -1,13 +1,12 @@
 # The_Bus
 ## 2001/2002 Thomas Flat Nose Pusher
 
-Bus Pictures and Info
-
-VIN:1T7HR3B2321120268
+VIN:1T7HR3B2321120268<br>
 https://www.thomasbusonline.com/ESP/Vinlookup.aspx
 
-Engine:Caterpillar 3126B
-Transmission:Allison MD3060 (6th Gear unlocked)
+__Engine:__ Caterpillar 3126B
+
+__Transmission:__ Allison MD3060 (6th Gear unlocked)
 
 Partial (hump) 16" roof raise. Windows and interior wall/skin removed.
 
